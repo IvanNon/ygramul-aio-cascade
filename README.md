@@ -1,5 +1,7 @@
 Ygramul AIO Cascade
 A Claude Skill that writes AI-Overview-optimized opening blocks for any article — using 14 specialized editor-judges that iteratively refine the block until it converges. Based on the Karpathy auto-research loop.
+---
+**The name.** Ygramul is the nine-headed spider from Michael Ende's *The Neverending Story* — a thousand eyes, each seeing a different angle. Crawlers are spiders. This cascade is one too — fourteen specialized editors, each crawling over your opening block from a different angle until the block is ready for AI Overview citation.
 
 Built by Ivan Nonveiller — enterprise SEO/GEO strategist.
 
