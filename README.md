@@ -116,9 +116,9 @@ MIT. Use it, modify it, ship it in your own tools.
 
 ## About the author
 
-**Ivan Nonveiller** — enterprise technical SEO and GEO strategist. 10+ years optimizing search for brands including Walmart, AutoTRADER, Ferrari, Maserati, Ritz-Carlton, Sotheby's, and BetterSleep. M.Sc. Intelligent Systems. Based in Montréal.
+**Ivan Nonveiller** — enterprise technical SEO and GEO strategist. 10+ years optimizing search for brands including Walmart, AutoTRADER, Ferrari, Maserati, Ritz-Carlton, Sotheby's, and BetterSleep. Based in Montréal.
 
 - LinkedIn: [ivannonveiller](https://www.linkedin.com/in/ivannonveiller/)
-- Ygramul methodology: [rushmedia.agency](https://rushmediaagency.com)
+- Ygramul methodology: [rushmediaagency.com](https://rushmediaagency.com)
 
 This skill is the open-source version of Ygramul's Lever 4 (Content) system.
