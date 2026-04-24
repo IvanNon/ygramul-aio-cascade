@@ -6,7 +6,7 @@ A Claude Skill that writes AI-Overview-optimized opening blocks for any article 
 
 ## The name
 
-Ygramul is the nine-headed spider from Michael Ende's *The Neverending Story* — a thousand eyes, each seeing a different angle. Crawlers are spiders. This cascade is one too — fourteen specialized editors, each crawling over your opening block from a different angle until the block is ready for AI Overview citation.
+The methodology takes its name from Ygramul, the spider in Michael Ende's The Neverending Story — a nod to the fact that search crawlers are, themselves, spiders.
 
 Built by [Ivan Nonveiller](https://www.linkedin.com/in/ivannonveiller/) — enterprise SEO/GEO strategist.
 
